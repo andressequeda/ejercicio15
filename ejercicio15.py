@@ -1,0 +1,5 @@
+coordenada_x1  =  float ( input ( "Digite la coordenada x1:" ))
+coordenada_y1  =  float ( input ( "Digite la coordenada x2:" ))
+coordenada_x2  =  float ( input ( "Digite la coordenada y1:" ))
+coordenada_y2  =  float ( input ( "Digite la coordenada y2:" ))
+print ( "La distancia entre los puntos es de" , math . sqrt (( coordenada_x2  -  coordenada_x1 ) ** 2  + ( coordenada_y2  -  coordenada_y1 ) ** 2 ))
